@@ -1,11 +1,4 @@
 {"urls": [
-{"url": "http://www.eoeoo.com/base/a.json","name":"自建配置1"},
-{"url": "http://www.eoeoo.com/base2/a.json","name":"自建配置2"},
-{"url": "http://www.eoeoo.com/base3/a.json","name":"自建配置3"},
-{"url": "http://www.eoeoo.com/base4/a.json","name":"自建配置4"},
-{"url": "http://www.eoeoo.com/base4/b.json","name":"自建配置5"},
-{"url": "https://ghproxy.com/https://raw.githubusercontent.com/iswhat/TVboxoconfigbest/main/a.json","name":"配置6git"},
-{"url": "http://www.eoeoo.com/base/aaa.json","name":"福利配置"},
 {"url": "http://000913.xyz/box/tv.json","name": "源享家线路"},
 {"url": "http://0454dt.com/tvbox","name": "二哈线路"},
 {"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name": "月光宝盒"},
